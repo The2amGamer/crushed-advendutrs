@@ -1,0 +1,12 @@
+{
+  "name": "crushed advendutrs.",
+  "short_name": "crushed advendutrs.",
+  "id": "com.example.gamename",
+  "description": "youre getting crushed by a ceiling! oh noes!",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
